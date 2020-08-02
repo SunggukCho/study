@@ -15,7 +15,7 @@
 
 # Part 1. 💡 자료구조 [Link](https://github.com/JaeYeopHan/for_beginner/tree/master/DataStructure)
 
-### 1주차 [Link](https://github.com/likelionSungGuk/study/blob/master/%EC%84%B1%EA%B7%A0%EA%B4%80%EB%8C%80_%EB%82%A8%EC%B6%98%EC%84%B1_%EA%B5%90%EC%88%98%EB%8B%98_%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%5B%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%5D2-1%EC%A3%BC%EC%B0%A8%20%EA%B0%95%EC%9D%98%EC%9E%90%EB%A3%8C(%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EA%B0%9C%EC%9A%94).pdf) [Link](https://github.com/likelionSungGuk/study/blob/master/%EC%84%B1%EA%B7%A0%EA%B4%80%EB%8C%80_%EB%82%A8%EC%B6%98%EC%84%B1_%EA%B5%90%EC%88%98%EB%8B%98_%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%5B%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%5D2-2%EC%A3%BC%EC%B0%A8%20%EA%B0%95%EC%9D%98%EC%9E%90%EB%A3%8C(%EC%88%9C%EC%B0%A8%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0).pdf) [Link](https://github.com/likelionSungGuk/study/blob/master/%EC%84%B1%EA%B7%A0%EA%B4%80%EB%8C%80_%EB%82%A8%EC%B6%98%EC%84%B1_%EA%B5%90%EC%88%98%EB%8B%98_%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%5B%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%5D3_3%EC%A3%BC%EC%B0%A8%20%EA%B0%95%EC%9D%98%EC%9E%90%EB%A3%8C(%EC%97%B0%EA%B2%B0%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0).pdf)
+### 1주차 [Link](data_structure/[자료구조_알고리즘]10주차_트리.pdf) 
 
 - 1. 자료구조 개요
 
