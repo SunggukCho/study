@@ -15,7 +15,7 @@
 
 # Part 1. 💡 자료구조 [Link](https://github.com/JaeYeopHan/for_beginner/tree/master/DataStructure)
 
-### 1주차
+### 1주차 [Link]([https://github.com/likelionSungGuk/study/blob/master/%EC%84%B1%EA%B7%A0%EA%B4%80%EB%8C%80%20%EB%82%A8%EC%B6%98%EC%84%B1%20%EA%B5%90%EC%88%98%EB%8B%98%20%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%5B%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%5D2-1%EC%A3%BC%EC%B0%A8%20%EA%B0%95%EC%9D%98%EC%9E%90%EB%A3%8C(%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EA%B0%9C%EC%9A%94).pdf](https://github.com/likelionSungGuk/study/blob/master/성균관대 남춘성 교수님 자료구조알고리즘/[자료구조_알고리즘]2-1주차 강의자료(자료구조개요).pdf) [Link]([https://github.com/likelionSungGuk/study/blob/master/%EC%84%B1%EA%B7%A0%EA%B4%80%EB%8C%80%20%EB%82%A8%EC%B6%98%EC%84%B1%20%EA%B5%90%EC%88%98%EB%8B%98%20%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%5B%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%5D2-2%EC%A3%BC%EC%B0%A8%20%EA%B0%95%EC%9D%98%EC%9E%90%EB%A3%8C(%EC%88%9C%EC%B0%A8%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0).pdf](https://github.com/likelionSungGuk/study/blob/master/성균관대 남춘성 교수님 자료구조알고리즘/[자료구조_알고리즘]2-2주차 강의자료(순차자료구조).pdf) [Link]([https://github.com/likelionSungGuk/study/blob/master/%EC%84%B1%EA%B7%A0%EA%B4%80%EB%8C%80%20%EB%82%A8%EC%B6%98%EC%84%B1%20%EA%B5%90%EC%88%98%EB%8B%98%20%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%5B%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%5D3_3%EC%A3%BC%EC%B0%A8%20%EA%B0%95%EC%9D%98%EC%9E%90%EB%A3%8C(%EC%97%B0%EA%B2%B0%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0).pdf](https://github.com/likelionSungGuk/study/blob/master/성균관대 남춘성 교수님 자료구조알고리즘/[자료구조_알고리즘]3_3주차 강의자료(연결자료구조).pdf)
 
 - 1. 자료구조 개요
 
@@ -43,7 +43,7 @@
   - 이중 연결 리스트
   - 이중 원형 연결 리스트
 
-### 2주차
+### 2주차 [Link]([https://github.com/likelionSungGuk/study/blob/master/%EC%84%B1%EA%B7%A0%EA%B4%80%EB%8C%80%20%EB%82%A8%EC%B6%98%EC%84%B1%20%EA%B5%90%EC%88%98%EB%8B%98%20%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%5B%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%5D4-6%EC%A3%BC%EC%B0%A8%20%EA%B0%95%EC%9D%98%EC%9E%90%EB%A3%8C(%EC%8A%A4%ED%83%9D).pdf](https://github.com/likelionSungGuk/study/blob/master/성균관대 남춘성 교수님 자료구조알고리즘/[자료구조_알고리즘]4-6주차 강의자료(스택).pdf) [Link]([https://github.com/likelionSungGuk/study/blob/master/%EC%84%B1%EA%B7%A0%EA%B4%80%EB%8C%80%20%EB%82%A8%EC%B6%98%EC%84%B1%20%EA%B5%90%EC%88%98%EB%8B%98%20%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%5B%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%5D7-8%EC%A3%BC%EC%B0%A8%20%EA%B0%95%EC%9D%98%EC%9E%90%EB%A3%8C(%ED%81%90).pdf](https://github.com/likelionSungGuk/study/blob/master/성균관대 남춘성 교수님 자료구조알고리즘/[자료구조_알고리즘]7-8주차 강의자료(큐).pdf)
 
 - 4. 스택(Stack) 
 
@@ -63,7 +63,7 @@
   - 원형 큐 - 삽입, 삭제
   - 연결 큐 - 삽입, 삭제
 
-### 3주차 
+### 3주차 [Link](https://github.com/likelionSungGuk/study/blob/master/%EC%84%B1%EA%B7%A0%EA%B4%80%EB%8C%80%20%EB%82%A8%EC%B6%98%EC%84%B1%20%EA%B5%90%EC%88%98%EB%8B%98%20%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%5B%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%5D10%EC%A3%BC%EC%B0%A8%20%EA%B0%95%EC%9D%98%EC%9E%90%EB%A3%8C(%ED%8A%B8%EB%A6%AC).pdf)  [Link](https://github.com/likelionSungGuk/study/blob/master/%EC%84%B1%EA%B7%A0%EA%B4%80%EB%8C%80%20%EB%82%A8%EC%B6%98%EC%84%B1%20%EA%B5%90%EC%88%98%EB%8B%98%20%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%5B%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%5D11%EC%A3%BC%EC%B0%A8%20%EA%B0%95%EC%9D%98%EC%9E%90%EB%A3%8C(%EC%9D%B4%EC%A7%84%ED%8A%B8%EB%A6%AC%ED%83%90%EC%83%89).pdf)
 
 - 6. 트리(Tree)
 
@@ -81,7 +81,7 @@
 
 - 힙 (Heap) 연산 - 삽입, 삭제
 
-### 4주차
+### 4주차 [Link](https://github.com/likelionSungGuk/study/blob/master/%EC%84%B1%EA%B7%A0%EA%B4%80%EB%8C%80%20%EB%82%A8%EC%B6%98%EC%84%B1%20%EA%B5%90%EC%88%98%EB%8B%98%20%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%5B%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%5D12%EC%A3%BC%EC%B0%A8%20%EA%B0%95%EC%9D%98%EC%9E%90%EB%A3%8C(%EA%B7%B8%EB%9E%98%ED%94%84).pdf)
 
 - Graph
 
@@ -95,7 +95,7 @@
     - Kruskal algorithm
     - Prim algorithm
 
-### 5주차
+### 5주차 
 
 - Red-Black Tree
 
@@ -119,7 +119,9 @@
 
 # Part 2. 💡 네트워크 [Link](https://github.com/JaeYeopHan/Beginner_for_interview/tree/master/Network)
 
-### 7주차
+교재 위키독스: [Link](https://www.notion.so/2-6b8ff6efbc8f48c18bbe6f0372d9e93b#95a6708d19de43188a5e939143fb8ce5)
+
+### 7주차 
 
 - 프로토콜
   - TCP/IP
@@ -162,14 +164,14 @@
 
 http://www.kocw.net/home/search/kemView.do?kemId=978503
 
-### 10주차
+### 10주차  [Link]([https://github.com/likelionSungGuk/study/blob/master/%EC%96%91%ED%9D%AC%EC%9E%AC%20%EA%B5%90%EC%88%98%EB%8B%98%20%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C%20%EA%B0%95%EC%9D%98%EC%95%88/os01.pdf](https://github.com/likelionSungGuk/study/blob/master/양희재 교수님 운영체제 강의안/os01.pdf))
 
 - 고등 운영체제, 인터럽트 기반 운영체제
 - 이중모드, 하드웨어 보호
 - 운영체제 서비스
 - 프로세스 관리
 
-### 11주차
+### 11주차 [Link]([https://github.com/likelionSungGuk/study/blob/master/%EC%96%91%ED%9D%AC%EC%9E%AC%20%EA%B5%90%EC%88%98%EB%8B%98%20%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C%20%EA%B0%95%EC%9D%98%EC%95%88/os02.pdf](https://github.com/likelionSungGuk/study/blob/master/양희재 교수님 운영체제 강의안/os02.pdf))
 
 - CPU 스케줄러
   - FCFS
@@ -180,8 +182,9 @@ http://www.kocw.net/home/search/kemView.do?kemId=978503
 
 - CPU스케쥴링 알고리즘
 
-### 12주차
+### 12주차 [Link]()
 
+- 쓰레드(Thread)
 - 프로세스 동기화
 - 임계구역 문제
 - 세마포
@@ -193,19 +196,19 @@ http://www.kocw.net/home/search/kemView.do?kemId=978503
 - 교착상태(Deadlock)
 - 모니터
 
-### 14주차
+### 14주차 [Link]([https://github.com/likelionSungGuk/study/blob/master/%EC%96%91%ED%9D%AC%EC%9E%AC%20%EA%B5%90%EC%88%98%EB%8B%98%20%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C%20%EA%B0%95%EC%9D%98%EC%95%88/os04.pdf](https://github.com/likelionSungGuk/study/blob/master/양희재 교수님 운영체제 강의안/os04.pdf))
 
 - 주기억장치(메모리) 관리
 - 메모리 절약
 - 연속 메모리 할당
 
-### 15주차
+### 15주차 [Link]([https://github.com/likelionSungGuk/study/blob/master/%EC%96%91%ED%9D%AC%EC%9E%AC%20%EA%B5%90%EC%88%98%EB%8B%98%20%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C%20%EA%B0%95%EC%9D%98%EC%95%88/os05.pdf](https://github.com/likelionSungGuk/study/blob/master/양희재 교수님 운영체제 강의안/os05.pdf))
 
 - 페이징
 - 세그먼테이션
 - 가상 메모리
 
-### 16주차
+### 16주차 [Link]([https://github.com/likelionSungGuk/study/blob/master/%EC%96%91%ED%9D%AC%EC%9E%AC%20%EA%B5%90%EC%88%98%EB%8B%98%20%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C%20%EA%B0%95%EC%9D%98%EC%95%88/os06.pdf](https://github.com/likelionSungGuk/study/blob/master/양희재 교수님 운영체제 강의안/os06.pdf))
 
 - 프레임 할당
 - 파일 할당
