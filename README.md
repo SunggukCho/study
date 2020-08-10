@@ -13,115 +13,11 @@
 
 
 
-# Part 1. 💡 자료구조 [Link](https://github.com/JaeYeopHan/for_beginner/tree/master/DataStructure)
-
-### 1주차 [Link](data_structure/[자료구조_알고리즘]2-1주차_자료구조개요.pdf) [Link](data_structure/[자료구조_알고리즘]2-2주차_순차자료구조.pdf) [Link](data_structure/[자료구조_알고리즘]3_3주차_연결자료구조.pdf)
-
-- 1. 자료구조 개요
-
-  - 수치자료의 표현
-  - 문자자료의 표현
-  - 논리자료의 표현
-  - 포인터 자료의 표현
-  - 문자열 자료의 표현
-
-- 2. 순차 자료 구조
-
-  - 리스트
-  - 1차원 배열
-  - 2차원 배열
-  - 3차원 배열
-  - 순차자료구조의 문제점
-  - Array vs Linked List
-
-- 3. 연결 자료구조
-
-  - 순차자료구조의 문제점과 연결자료구조
-  - 노드의 이해
-  - 선형 리스트와 연결 리스트의 비교
-  - 원형 연결 리스트
-  - 이중 연결 리스트
-  - 이중 원형 연결 리스트
-
-### 2주차 [Link](data_structure/[자료구조_알고리즘]4-6주차_스택.pdf) [Link](data_structure/[자료구조_알고리즘]7-8주차_큐.pdf)
-
-- 4. 스택(Stack) 
-
-  - 스택의 연산 - push, pop
-  - 스택 구현
-  - 스택의 장단점
-  - 시스템 스택
-  - 수식의 표기법
-
-- 5. 큐(Queue)
-
-  - 선형 큐 구조
-  - 큐의 연산 - 삽입, 삭제
-  - 큐의 검색
-  - 포화상태
-  - 원형 큐 구조
-  - 원형 큐 - 삽입, 삭제
-  - 연결 큐 - 삽입, 삭제
-
-### 3주차 [Link](data_structure/[자료구조_알고리즘]10주차_트리.pdf)  [Link](data_structure/[자료구조_알고리즘]11주차_이진트리탐색.pdf)
-
-- 6. 트리(Tree)
-
-  - 이진트리(Binary Tree)
-  - 포화이진트리(Full Binary Tree)
-  - 완전이진트리(Complete Binary Tree)
-  - 편향이진트리(Swkewed Binary Tree)
-  - 이진트리의 순회(Binary Tree Traversal)
-    - 전위순회 (preorder traversal)
-    - 중위순회 (inorder traversal)
-    - 후위순회 (postorder traversal)
-  - 이진 탐색 트리 (Binary Search Tree)
-    - 이진 탐색 트리 연산 - 삽입, 삭제
-    - 후계자 선택 방법
-
-- 힙 (Heap) 연산 - 삽입, 삭제
-
-### 4주차 [Link](data_structure/[자료구조_알고리즘]12주차_그래프.pdf)
-
-- Graph
-
-  - Graph 개념, 종류
-  - 인접 행렬, 인접 리스트
-  - Graph 구현
-  - Graph 탐색
-    - 깊이 우선 탐색 (Depth First Search: DFS)
-    - 너비 우선 탐색 (Breath First Search: BFS)
-- Minimum Spanning Tree
-    - Kruskal algorithm
-    - Prim algorithm
-
-### 5주차 
-
-- Red-Black Tree
-
-  - 정의
-  - 특징
-  - 삽입
-  - 삭제
-- 해시 테이블 (Hash Table)
-
-  - Hash Function
-  - Resolve Collision
-    - Open Addressing
-    - Separate Chaining
-  - Resize
-
-### 6주차 [Link](data_structure/동적계획법_설명.pdf)
-
-- 동적 계획법
-- 퀴즈 풀기
-- XML/JSON 구조 살펴보기 https://wikidocs.net/22330
-
-# Part 2. 💡 네트워크 [Link](https://github.com/JaeYeopHan/Beginner_for_interview/tree/master/Network)
+# Part 1. 💡 네트워크 [Link](https://github.com/JaeYeopHan/Beginner_for_interview/tree/master/Network)
 
 교재 위키독스: [Link](https://www.notion.so/2-6b8ff6efbc8f48c18bbe6f0372d9e93b#95a6708d19de43188a5e939143fb8ce5)
 
-### 7주차 
+### 1주차 
 
 - 프로토콜
   - TCP/IP
@@ -134,7 +30,7 @@
 
 - 인터넷 쿠키와 세션
 
-### 8주차 
+### 2주차 
 
 - 폴링 방식과 이벤트 방식
 
@@ -146,7 +42,7 @@
 
 - 토렌트, p2p개념
 
-### 9주차
+### 3주차 
 
 - GET, POST 방식의 차이점
 - TCP 3-way-handshake
@@ -158,20 +54,20 @@
 
 
 
-# Part 3. 💡 운영체제 [Link](https://github.com/JaeYeopHan/Beginner_for_interview/tree/master/OS)
+# Part 2. 💡 운영체제 [Link](https://github.com/JaeYeopHan/Beginner_for_interview/tree/master/OS)
 
 경성대학교 양희재 교수님 운영체제 강의 듣기
 
 http://www.kocw.net/home/search/kemView.do?kemId=978503
 
-### 10주차  [Link](OS/os01.pdf)
+### 4주차  [Link](OS/os01.pdf)
 
 - 고등 운영체제, 인터럽트 기반 운영체제
 - 이중모드, 하드웨어 보호
 - 운영체제 서비스
 - 프로세스 관리
 
-### 11주차 [Link](OS/os02.pdf)
+### 5주차 [Link](OS/os02.pdf)
 
 - CPU 스케줄러
   - FCFS
@@ -182,7 +78,7 @@ http://www.kocw.net/home/search/kemView.do?kemId=978503
 
 - CPU스케쥴링 알고리즘
 
-### 12주차 [Link](OS/os03.pdf)
+### 6주차 [Link](OS/os03.pdf)
 
 - 쓰레드(Thread)
 - 프로세스 동기화
@@ -191,32 +87,52 @@ http://www.kocw.net/home/search/kemView.do?kemId=978503
 - 생산자-소비자 문제
 - 동기화 문제
 
-### 13주차
+### 7주차
 
 - 교착상태(Deadlock)
 - 모니터
 
-### 14주차 [Link](OS/os04.pdf)
+### 8주차 [Link](OS/os04.pdf)
 
 - 주기억장치(메모리) 관리
 - 메모리 절약
 - 연속 메모리 할당
 
-### 15주차 [Link](OS/os05.pdf)
+### 9주차 [Link](OS/os05.pdf)
 
 - 페이징
 - 세그먼테이션
 - 가상 메모리
 
-### 16주차 [Link](OS/os06.pdf)
+### 10주차 [Link](OS/os06.pdf)
 
 - 프레임 할당
 - 파일 할당
 - 디스크 스케쥴링
 
+## Part 3. 💡 정규표현식
+
+### 11주차 [Link](https://wikidocs.net/4308)
+
+- 정규표현식 시작하기 
+  - 정규 표현식의 기초, 메타 문자
+  - 파이썬에서 정규 표현식을 지원하는 re 모듈
+  - 정규식을 이용한 문자열 검색
+  - match 객체의 메서드
+  - 컴파일 옵션
+  - 백슬래시 문제
+
+### 12주차 [Link](https://wikidocs.net/4309)
+
+- 강력한 정규표현식
+  - 그루핑
+  - 전방탐색
+  - 문자열 바꾸기
+  - Greedy vs non- Greedy
+
 ---
 
-### 17주차. 강의 들으면서 아래 질문에 대한 답변 토의하고 정리해두기
+### 13주차. 강의 들으면서 아래 질문에 대한 답변 토의하고 정리해두기
 
 - 프로세스와 스레드의 차이
 - 스케줄러의 종류
@@ -254,6 +170,12 @@ http://www.kocw.net/home/search/kemView.do?kemId=978503
 
   - Locality
   - Caching line
+
+<추가 사이트>
+
+#### 정규식 짤 때 도움이 되는 사이트 - [regex101.com](https://regex101.com/)
+
+#### 정규식에 대한 이해와 예제 사이트 - https://regexone.com/
 
 
 ---
@@ -311,5 +233,7 @@ http://www.kocw.net/home/search/kemView.do?kemId=978503
 - 포트폴리오 제작시에 비인기 라이브러리를 사용한 경험이 있는가
 
 - 이러한 비인기 라이브러리에 대한 정보를 어디서 얻는가 왜 활용하였는가
+
+- XML/JSON 구조 살펴보기 https://wikidocs.net/22330
 
   
