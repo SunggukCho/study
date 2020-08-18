@@ -10,13 +10,17 @@
 
 | 계층 번호 | 계층 이름 | 프로토콜 |
 |----|----|----|
-| 7 | 응용 (Application) | FTP, HTTP |
+| 7 | 응용 (Application) | **FTP, HTTP, SMTP** |
 | 6 | 표현 (Presentation) | ASCII, MPEG |
 | 5 | 세션 (Session) | SSH |
 | 4 | 전송 (Transport) | **TCP**, UDP|
 | 3 | 네트워크 (Network) | **IP**, 라우터 |
 | 2 | 데이터 링크 (DataLink) | MAC, Ethernet|
 | 1 | 물리 (Physical) | Ethernet |
+
+
+
+**PDU(Protocol Data Unit)** : 프로토콜 데이터 단위로 해당 계층에서 전달하는 데이터 단위
 
 ![OSI 모형](https://i.loli.net/2020/08/17/MEs2TF5jGqbe3nh.jpg)
 
@@ -37,12 +41,25 @@
 
 ### TCP : 전송 제어 프로토콜 (Transmission Control Protocol)
 
- 받은 정보를 보내주기 위해 **Packet** (패킷)화 하는 과정 (8 bit)
+ 받은 정보를 보내주기 위해 **Segment** (세그먼트)화 하는 과정 (8 bit)
 
-- Packet은 조립식 컴퓨터를 택배로 보낸다고 생각하면 간단하다
-  - 필요한 패킷을 전부 받은 이후 맞게 조합하여 사용자에게 필요한 정보로 보여준다.
+**Packet(패킷)**과 **Segment(세그먼트)**는 **택배**를 생각하면 간단하다.
 
-TCP 프로토콜의 작동은 크게 세 가지 흐름으로 구분한다.
+- 세그먼트(segment)
+  - 발신지 포트 : 발신하는 application의 포트
+  - 목적지 포트 : 수신해야 할 application의 포트
+  - 순서 번호 : 순차적 전송할 경우 순서를 붙이며, 순서가 어긋나면 목적지 프로토콜이 이를 바로 잡는다.
+  - 오류검출코드
+
+- **네트워크 계층 :패킷(packet)**
+
+  - 발신지 컴퓨터 주소 : 패킷의 발신자 주소
+  - 목적지 컴퓨터 주소 : 패킷의 수신자 주소
+  - 서비스 요청 : 우선 순위와 같은 서브 네트워크의 사용을 요청할 수 있다.
+
+  
+
+**TCP 프로토콜의 작동**은 **크게 세 가지 흐름**으로 구분한다. (3 handshakes)
 
 1. 연결 생성 (Connection establishment)
    1. 통신이 필요하다는 신호를 상대에게 보낸다
@@ -54,6 +71,8 @@ TCP 프로토콜의 작동은 크게 세 가지 흐름으로 구분한다.
 
 
 **UDP**(User Datagram Protocol) : 적은 신뢰성, 높은 속도
+
+
 
 
 ## 라우터 / 라우팅
