@@ -32,7 +32,7 @@
 
 ### 2주차 
 
-- 폴링 방식과 이벤트 방식
+- 실시간 통신: Polling / Long polling / Streaming / Websocket 개념
 
 - API, OpenAPI
 
@@ -45,12 +45,10 @@
 ### 3주차 
 
 - GET, POST 방식의 차이점
-- TCP 3-way-handshake
-- TCP 와 UDP 의 차이점
-- DNS round robin 방식
-- 웹 통신의 큰 흐름
-- CORS(Cross-Origin Resource Sharing)는 무엇인가 왜 이러한 방법이 정의 되었으며, 본인이 코드를 작성하면서 CORS와 관련하여서 경험하였던 이슈는 무엇인가
-- Wireshark 에 대해 알고 있는가
+- 방화벽, 캐시서버
+- DNS 와 round robin 방식
+- CORS(Cross-Origin Resource Sharing)는 무엇인가
+- Wireshark 는 무엇인가 
 
 
 
@@ -195,7 +193,7 @@ http://www.kocw.net/home/search/kemView.do?kemId=978503
   - 함수형 프로그래밍에 개념에서 순수함수란 무엇인가
   - OOP와 함수형 프로그래밍의 가장 큰 차이점은 무엇인가
 
-- RESTFul API 란?
+- RESTFul API 란?ㅜ
 
 - TDD 란 무엇이며 어떠한 장점이 있는가?
 
