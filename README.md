@@ -33,14 +33,13 @@
 ### 2주차 
 
 - 실시간 통신: Polling / Long polling / Streaming / Websocket 개념
-
 - API, OpenAPI
-
 - RESTful API와 철학
-
 - 프록시
-
-- 토렌트, p2p개념
+- 방화벽
+- DMZ
+- p2p
+- 그리드컴퓨팅
 
 ### 3주차 
 
