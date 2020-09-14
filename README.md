@@ -66,14 +66,15 @@ http://www.kocw.net/home/search/kemView.do?kemId=978503
 
 ### 5주차 [Link](OS/os02.pdf)
 
-- CPU 스케줄러
+- CPU스케쥴링 알고리즘
   - FCFS
   - SJF
   - SRT
   - Priority scheduling
   - RR
-
-- CPU스케쥴링 알고리즘
+- 다중 큐 스케쥴링
+  - 프로세스 생성과 소멸 
+  - 쓰레드
 
 ### 6주차 [Link](OS/os03.pdf)
 
