@@ -72,9 +72,8 @@ http://www.kocw.net/home/search/kemView.do?kemId=978503
   - SRT
   - Priority scheduling
   - RR
-- 다중 큐 스케쥴링
+  - 다중 큐 스케쥴링: 멀티레벨 큐, 멀티레벨 피드백 큐
   - 프로세스 생성과 소멸 
-  - 쓰레드
 
 ### 6주차 [Link](OS/os03.pdf)
 
