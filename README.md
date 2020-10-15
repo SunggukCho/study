@@ -95,21 +95,22 @@ http://www.kocw.net/home/search/kemView.do?kemId=978503
 - 메모리 절약
 - 연속 메모리 할당
 
-### 9주차 [Link](OS/os05.pdf)
-
 - 페이징
 - 세그먼테이션
-- 가상 메모리
 
-### 10주차 [Link](OS/os06.pdf)
+### 9주차 [Link](OS/os05.pdf)
+
+- 가상 메모리
 
 - 프레임 할당
 - 파일 할당
 - 디스크 스케쥴링
 
+
+
 ## Part 3. 💡 정규표현식
 
-### 11주차 [Link](https://wikidocs.net/4308)
+### 10주차 [Link](https://wikidocs.net/4308)
 
 - 정규표현식 시작하기 
   - 정규 표현식의 기초, 메타 문자
@@ -119,7 +120,7 @@ http://www.kocw.net/home/search/kemView.do?kemId=978503
   - 컴파일 옵션
   - 백슬래시 문제
 
-### 12주차 [Link](https://wikidocs.net/4309)
+### 11주차 [Link](https://wikidocs.net/4309)
 
 - 강력한 정규표현식
   - 그루핑
@@ -129,7 +130,7 @@ http://www.kocw.net/home/search/kemView.do?kemId=978503
 
 ---
 
-### 13주차. 강의 들으면서 아래 질문에 대한 답변 토의하고 정리해두기
+### 12주차. 강의 들으면서 아래 질문에 대한 답변 토의하고 정리해두기
 
 - 프로세스와 스레드의 차이
 - 스케줄러의 종류
